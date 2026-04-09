@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class secondlargest {
     public static void main(String[] args) {
       // System.out.println("Hello, World!");
       int[] arr = {10,20,4,45,99};
